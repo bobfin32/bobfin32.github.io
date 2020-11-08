@@ -2,9 +2,9 @@
 title: "CV"
 ---
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>		
 
-<a href="hist_cross.html"</a>
+<iframe src="https://drive.google.com/file/d/18H8V0S7j1ZaxUgtQJHN-WpojIa0MLUAa/preview" width="640" height="480"></iframe>
 
 ## Header
 
